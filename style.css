@@ -74,4 +74,8 @@ height: 300px;
     display: flex;
     justify-content: center;
 }
-
+.cards .card .huh {
+ color: crimson;
+ display: flex;
+ justify-content: center;
+}
